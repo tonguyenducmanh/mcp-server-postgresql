@@ -1,5 +1,7 @@
 simple mcp server to to connect postgresql
 
+copy build file [index.js](build/index.js) into folder config mcp bellow
+
 config in cline_mcp_settings.json
 
 ```
